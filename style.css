@@ -1,0 +1,32 @@
+container {
+
+position: relative;
+
+width: 256px;
+
+height: 256px;
+
+display: flex;
+
+justify-content: center;
+
+align-items: center;
+
+}
+
+.container span {
+
+position: absolute;
+
+left: 0;
+
+width: 32px;
+
+height: 6px;
+
+background: #204766;
+
+border-radius: 8px;
+
+transform-origin: 128px;
+}
